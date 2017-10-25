@@ -1,3 +1,4 @@
+# Author:Prathamesh Ovalekar
 # Scrolling_7Segment_vhdl
 The program displays marching ”-” pattern from right to left and then from left to right, repeat
 This pattern is displayed on the 8 7 segments of Nexus4DDR.
